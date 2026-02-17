@@ -1,0 +1,16 @@
+{
+  "name": "roblox-feedback-bridge",
+  "version": "2.0.0",
+  "description": "Discord webhook bridge for Roblox Feedback System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["roblox", "discord", "webhook", "bridge"],
+  "author": "Your Name",
+  "license": "MIT"
+}
